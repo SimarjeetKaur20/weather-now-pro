@@ -1,4 +1,4 @@
-# new.py -- Weather Now (Pro edition)
+
 import streamlit as st
 import requests
 from datetime import datetime, timedelta
